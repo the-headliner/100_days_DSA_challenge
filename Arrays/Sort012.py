@@ -1,3 +1,5 @@
+# Sort an array of 0, 1, and 2
+
 # Brute force approach: --> Counting Frequencies
 # Time Complexity:  O(n) - Traverse the array once to count frequencies.
 # Space Complexity:   O(n) - Create a new array for the result.

@@ -1,3 +1,6 @@
+# move all the negative elements to one side of the array
+
+
 # Brute Force Approach --> Using Extra Space
 # Time Complexity: O(n) - Single traversal of the array.
 # Space Complexity: O(n) - Requires an additional array to store the result.
